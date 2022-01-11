@@ -147,11 +147,10 @@ In this section, you’ll query the database using the Atlas Data Explorer. This
 
 1. Navigate to the Data Explorer (the Collections tab), if you are not already there. See the official MongoDB documentation for information on how to navigate to the Data Explorer.
 
-~~(The left panel of the Data Explorer displays a list of databases and collections in the current cluster. The right panel of the Data Explorer displays a list of documents in the current collection.)~~
+(The left panel of the Data Explorer displays a list of databases and collections in the current cluster. The right panel of the Data Explorer displays a list of documents in the current collection.)
 
-~~(INSERT IMG)~~
-
-~~(The Data Explorer displays a list of documents in the listingsAndReviews collection.)~~
+![ktiqg2rcidp2r9mg2-image3](https://user-images.githubusercontent.com/89387153/148976021-ffa8b447-b619-4bde-8da0-f6a7237a0df9.png)
+(The Data Explorer displays a list of documents in the listingsAndReviews collection.)
 
 2. Expand the **sample_mflix** database in the left panel. A list of the database’s collections is displayed.
 3. Select the **movies** collection. The Find View is displayed in the right panel. The first twenty documents of the results are displayed.
@@ -159,8 +158,8 @@ In this section, you’ll query the database using the Atlas Data Explorer. This
 
 Two documents with the title “Pride and Prejudice” are returned.
 
-~~(INSERT IMG)~~
-~~(The results for querying for movies with the title “Pride and Prejudice”.)~~
+![ktiqmvdaumzjbiw9c-image2](https://user-images.githubusercontent.com/89387153/148976044-b450f743-b51e-4d77-a5b3-1288388ef2a7.png)
+(The results for querying for movies with the title “Pride and Prejudice”.)
 
 Congrats! You’ve successfully queried a NoSQL database!
 
