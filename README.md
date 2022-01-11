@@ -21,7 +21,7 @@ To sum it up the for NoSQL:
 
 >I wrote some notes to understand the project little better.
 
-Ellert Smári Tutorial: (https://ellertsmarik.medium.com/the-mern-stack-for-beginners-e607eb8b7100)
+Ellert Smári MERN stack Tutorial: (https://ellertsmarik.medium.com/the-mern-stack-for-beginners-e607eb8b7100)
 
 Source for notes: (https://www.mongodb.com/nosql-explained)
 
